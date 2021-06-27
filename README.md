@@ -1,4 +1,4 @@
-# modified-client.py
+# modified-client
 
 Basically, the code 4transactions.py is just a modification of client.py. I used this code for performance comparison of protocol modes (load-balancing and non-load-balancing)
 This program runs 4 transactions. The first transaction is in load balancing mode and the other 3 transactions are in non-load-balancing mode. After performing the 4 transactions,
